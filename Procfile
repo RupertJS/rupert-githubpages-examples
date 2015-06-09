@@ -1,1 +1,1 @@
-web: node app.js
+web: HTTP_PORT=$PORT node app.js
