@@ -1,8 +1,8 @@
 {
   "dependencies": {
     "passport-google-oauth": "^0.2.0",
-    "rupert": "^0.3.7",
-    "rupert-doorman": "0.0.5",
+    "rupert": "^0.3.8",
+    "rupert-doorman": "0.0.6",
     "rupert-plugin-bootstrap": "^0.1.1",
     "rupert-plugin-mongo": "0.0.6"
   }
