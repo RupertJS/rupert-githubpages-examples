@@ -10,9 +10,6 @@ var config = {
   mongo: {
     rest: false
   },
-  tls: {
-    writeCert: true
-  },
   doorman: {
     providers: {
       google: {
